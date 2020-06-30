@@ -1,0 +1,21 @@
+{
+  "name": "chrome-screencast-color-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1",
+    "@types/puppeteer-core": "^2.0.0",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.28.2",
+    "puppeteer-core": "^4.0.1"
+  }
+}
